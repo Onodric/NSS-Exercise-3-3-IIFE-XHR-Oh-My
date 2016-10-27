@@ -1,1 +1,9 @@
-// 1. Create two JSON files. One should contain an array of carnivores, and the other should contain an array of herbivores.
+{
+  "predators": [
+    "penguin",
+    "wolf",
+    "lion",
+    "whale",
+    "spider"
+  ]
+}
